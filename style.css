@@ -253,13 +253,18 @@ footer a {
     text-decoration: none;
 }
 .cargar{
+	margin-bottom: 0px;
+	font-size: 20px;
 	font-family: ubuntu;
 	font-weight: bold;
-	width:70%;
-
-
     color: black;
     text-decoration: none;
 }
 
-
+.cargar-imput {
+	font-family: ubuntu;
+	font-weight: bold;
+width: 70%;
+    color: black;
+    text-decoration: none;
+}
